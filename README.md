@@ -17,7 +17,7 @@ O Django baseado em perguntas e respostas.
 A pasta testes contem os fontes correspondentes;
 Foram utilizadas as bibliotecas fornecidas no Framework, sendo assim, podera ser observado a
 criacao da tabela clientes_clientes no BD SQLite, com atributos name,username,email, como solicitado.
-Para sua administracao foram empregado os modulos django.
+Para sua administracao foram empregado os modulos django para utilizacao ORM e execucao do CRUD.
 
 O servidor pode ser observado a partir de sua execucao em:
 
